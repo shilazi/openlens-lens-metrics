@@ -13,9 +13,26 @@ https://raw.githubusercontent.com/shilazi/openlens-lens-metrics/main/build/shila
 
 ## Other Extensions
 
-```
-https://raw.githubusercontent.com/shilazi/openlens-lens-metrics/main/build/alebcay-openlens-node-pod-menu-0.1.0.tgz
-https://raw.githubusercontent.com/shilazi/openlens-lens-metrics/main/build/lens-debug-tools-0.1.4.tgz
-https://raw.githubusercontent.com/shilazi/openlens-lens-metrics/main/build/lens-extension-network-policy-viewer-3.0.0.tgz
-https://raw.githubusercontent.com/shilazi/openlens-lens-metrics/main/build/nevalla-kube-resource-map-1.1.0.tgz
-```
+* [alebcay/openlens-node-pod-menu](https://github.com/alebcay/openlens-node-pod-menu)
+
+  ```
+  https://raw.githubusercontent.com/shilazi/openlens-lens-metrics/main/build/alebcay-openlens-node-pod-menu-0.1.0.tgz
+  ```
+
+* [vbystricky21/lens-debug-tools](https://github.com/vbystricky21/debug-pods-lens-extension)
+
+  ```
+  https://raw.githubusercontent.com/shilazi/openlens-lens-metrics/main/build/lens-debug-tools-0.1.4.tgz
+  ```
+
+* [artturik/lens-extension-network-policy-viewer](https://github.com/artturik/lens-extension-network-policy-viewer)
+
+  ```
+  https://raw.githubusercontent.com/shilazi/openlens-lens-metrics/main/build/lens-extension-network-policy-viewer-3.0.0.tgz
+  ```
+
+* [nevalla/kube-resource-map](https://github.com/nevalla/lens-resource-map-extension)
+
+  ```
+  https://raw.githubusercontent.com/shilazi/openlens-lens-metrics/main/build/nevalla-kube-resource-map-1.1.0.tgz
+  ```
