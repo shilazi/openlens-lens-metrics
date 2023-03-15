@@ -7,7 +7,7 @@ This OpenLens extension adds back cluster lens metrics functionality that was re
 In OpenLens, navigate to the Extensions list. In the text box, enter the name of this plugin:
 
 ```
-https://raw.githubusercontent.com/shilazi/openlens-lens-metrics/main/shilazi-openlens-lens-metrics-0.1.0.tgz
+https://raw.githubusercontent.com/shilazi/openlens-lens-metrics/main/build/shilazi-openlens-lens-metrics-0.1.0.tgz
 ```
 
 Click "Install", and after a few moments, the plugin should appear in the list of installed extensions and be enabled.
