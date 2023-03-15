@@ -1,0 +1,44 @@
+{
+  "name": "@shilazi/openlens-lens-metrics",
+  "version": "0.1.0",
+  "description": "Lens Metrics for OpenLens",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shilazi/openlens-lens-metrics.git",
+    "directory": "."
+  },
+  "renderer": "dist/renderer.js",
+  "engines": {
+    "node": "^16.14.2",
+    "lens": "^6.3.0"
+  },
+  "scripts": {
+    "build": "npm run clean && npx webpack && npm pack",
+    "clean": "rm -rf ./dist && rm -rf *.tgz",
+    "dev": "npx webpack -- --watch",
+    "lint": "npx eslint ."
+  },
+  "files": [
+    "dist/**/*",
+    "resources/**/*"
+  ],
+  "devDependencies": {
+    "@k8slens/extensions": "^6.3.0",
+    "@types/react": "^17.0.52",
+    "@typescript-eslint/eslint-plugin": "^5.47.1",
+    "eslint": "^8.31.0",
+    "ts-loader": "^9.4.2",
+    "webpack-cli": "^5.0.1",
+    "semver": "^7.3.2"
+  },
+  "license": "MIT",
+  "keywords": [
+    "metrics",
+    "prometheus",
+    "exporter",
+    "extension",
+    "k8slens",
+    "lens",
+    "openlens"
+  ]
+}
